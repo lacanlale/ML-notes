@@ -2,3 +2,4 @@ quandl
 scikit-learn
 pandas
 numpy
+matplotlib
