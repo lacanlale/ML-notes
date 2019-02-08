@@ -1,0 +1,4 @@
+quandl
+scikit-learn
+pandas
+numpy
